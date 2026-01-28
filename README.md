@@ -1,4 +1,19 @@
-# 📚 Class 10th Science Digital Notes
+# 📚 Class 10th Science Notes Website
+Yeh ek educational website hai jo Class 10th ke students ki madad ke liye banayi gayi hai.
+
+## 📝 Website Description
+Is website ka maqsad Science ke mushkil topics ko aasaan bhasha mein samjhana hai. Isme Physics, Chemistry aur Biology ke main chapters cover kiye gaye hain.
+
+## 📂 Chapters Included:
+1. **Chemical Reactions** - Balancing equations seekhne ke liye.
+2. **Life Processes** - Biology ke important diagrams ke saath.
+3. **Light & Electricity** - Physics ke formulas aur numericals.
+
+## 🛠️ Tech Used:
+* HTML5
+* CSS3 (For Styling)
+* GitHub Pages (For Hosting)
+* # 📚 Class 10th Science Digital Notes
 
 Yeh meri pehli website hai jo maine **Mobile HTML Editor** se banayi hai. Isme Class 10th Science ke important chapters ke notes hain.
 
