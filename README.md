@@ -25,7 +25,7 @@ Yeh meri pehli website hai jo maine **Mobile HTML Editor** se banayi hai. Isme C
 
 ## 🚀 Kaise Dekhein?
 Aap meri website ko is link par dekh sakte hain: 
-[YAHAN APNA GITHUB PAGES KA LINK PASTE KAREIN]
+(index.html)
 
 ---
-Made with ❤️ by [Apna Naam Likhein]
+Made with ❤️ by [Krish Kumar]
